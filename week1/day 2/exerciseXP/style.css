@@ -1,0 +1,42 @@
+.logo{
+	height: 70px;
+	width: 70px;
+}
+h1{
+	font-family: fantasy;
+	color: white;
+	font-size: 20px;
+}
+*{
+	margin: 0px;
+	padding: 0px;
+	background-color: black;
+}
+
+header{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 30px 10%;
+}
+img{
+	width: 200px;
+	height: 350px;
+	margin: 20px;
+	transition: all 1s;
+	padding: 0 px;
+}
+img:hover{
+	transform: scale(1.1);
+}
+
+
+
+
+
+
+
+
+
+
+
