@@ -1,0 +1,44 @@
+body {
+    background-color: white;
+    background-image: url("https://thumbs.gfycat.com/EarlyColorlessAegeancat-size_restricted.gif");
+    color: white;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-blend-mode: normal;
+    height: 100vh;
+}
+
+#wrapper {
+    display: grid;
+    grid-template-rows: 1fr;
+    justify-content: center;
+    justify-items: center;
+    gap: 30px;
+}
+
+#button{
+    margin-top: 20px;
+    border: 3px solid yellow;
+    border-radius: 10px;
+    width: 180px;
+    height: 40px;
+    font-weight: bold;
+    font-size: 20px;
+    cursor: pointer;
+    background-color: yellow;
+}
+
+#displayDiv {
+	border: 2px solid yellow;
+	border-radius: 15px;
+	width: 800px;
+	height: 400px;
+	color: yellow;
+	text-align: center;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+    font-weight: bold;
+}
