@@ -1,0 +1,4 @@
+Apples: 2
+Bananas: 3
+Flowers: 4
+Bread: 1
