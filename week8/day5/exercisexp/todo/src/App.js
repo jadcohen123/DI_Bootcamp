@@ -5,7 +5,7 @@ class App extends React.Component {
   constructor() {
     super();
     this.state = {
-      taskList: [{ task: "Buy milk" }, { task: "Book Dr appointment" }],
+      taskList: [{ task: "Buy some milk" }, { task: "Do my homework" }],
     };
   }
 
